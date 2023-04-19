@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning with learning from https://skills.github.com
+- 🔭 I’m going to working on something cool!
 
 <!--
 **oivlys/oivlys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
